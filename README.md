@@ -1,2 +1,2 @@
 # Tetris
-This is a Tetris game built in Python
+Tetris game that I built in Python
